@@ -13,7 +13,7 @@ Wikipedia:
 > and which they would be delighted to share with the villager, although it
 > still needs a little bit of garnish, which they are missing, to improve the
 > flavor.
-> 
+>
 > The villager, who anticipates enjoying a share of the soup, does not mind
 > parting with a few carrots, so these are added to the soup. Another villager
 > walks by, inquiring about the pot, and the travelers again mention their
@@ -31,5 +31,6 @@ Wikipedia:
 Place a large pot of water over low heat and add:
 
 - a stone
+- 3 carrots
 
 Simmer until done.  Remove stone and serve the soup.
