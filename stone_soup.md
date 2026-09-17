@@ -32,5 +32,6 @@ Place a large pot of water over low heat and add:
 
 - a stone
 - 3 carrots
+- 2 onions
 
 Simmer until done.  Remove stone and serve the soup.
