@@ -30,6 +30,6 @@ Wikipedia:
 
 Place a large pot of water over low heat and add:
 
-- a stone
+- 2 stone
 
 Simmer until done.  Remove stone and serve the soup.
